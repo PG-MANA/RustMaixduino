@@ -1,0 +1,9 @@
+[package]
+name = "rust_maixduino"
+version = "0.0.1"
+authors = [ "PG_MANA <pg_mana@taprix.org>" ]
+description = "The test code for Maixduino"
+license = "Apache-2.0"
+[lib]
+crate-type = ["staticlib"]
+
